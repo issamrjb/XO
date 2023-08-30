@@ -1,0 +1,52 @@
+.btn_game{
+    width: 100px;
+    height: 100px;
+    font-size: 66pt;
+    margin: 0px;
+    background-color: white;
+    color: white;
+}
+#player{
+    font-size: 120pt;
+    width: 200px;
+    height: 200px;
+    margin: 50px;
+}
+#game{
+    background-color: #eee;
+    width: max-content;
+    padding: 10px;
+}
+td{
+    background-color: #ddd;
+    vertical-align: top;
+}
+h2{
+    text-align: center;
+    font-size: 30px;
+    background-color: #fee;
+    display: inline-block;
+    width: 200px;
+    padding: 10px;
+}
+#score1,#score2{
+    display: inline-block;
+    width: 200px;
+    font-size: 66pt;
+    text-align: center;
+}
+p{
+    display: inline;
+}
+#score1 p{
+    color: green;
+}
+#score2 p{
+    color: red;
+}
+#td3 h2{
+    color:red;
+}
+#td1 h2{
+    color: green;
+}
